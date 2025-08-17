@@ -1,0 +1,10 @@
+*.o
+*.out
+*.exe
+*.so
+*.a
+*.swp
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
